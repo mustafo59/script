@@ -1,1 +1,11 @@
 # script
+echo "salom"
+mkdir virus1 
+mkdir virus2 
+mkdir virus3 
+mkdir virus4 
+mkdir virus5
+mkdir Legrant
+cd virus1
+touch fayl.sh 
+touch 2d.html
